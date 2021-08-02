@@ -1,0 +1,60 @@
+{
+    "basics": {
+        "name": "Sneh Patel",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/76471979?s=400&u=d1e732a67768d1852e0ac5283593830123c71462&v=4",
+        "email": "2020kuec2016@iiitkota.ac.in",
+        "phone": "+919309063740",
+        "website": "",
+        "summary": "Greetings everyone, I am sneh patel i am student of Indian Institute of Information technology,Kota (India). Currently I am persuing my B.tech in Electronics communication engineering. I am studing and practising both Compaitative coading and Web development.",
+        "location": {
+            "address": "512-D Malvia Nagar",
+            "postalCode": "302003",
+            "city": "Jaipur",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [{
+                "network": "Github",
+                "username": "SnehPatel-51",
+                "url": "https://www.github.com/SnehPatel-51/"
+            },
+            {
+                "network": "linkedin",
+                "username": "SNEH PATEL",
+                "url": "https://www.https://www.linkedin.com/in/sneh-patel-90a1b1219/"
+            },
+            {
+                "network": "Instagram",
+                "username": "sneh_patel51",
+                "url": "https://instagram.com/sneh_patel51"
+            }
+        ]
+    },
+    "education": [{
+        "institution": "Indian Institute of Information technology,kota",
+        "area": "Engineering",
+        "studyType": "Bachelor of Technology",
+        "courses": [
+            "Electronics & Communication Engineering"
+        ]
+    }],
+    "skills": [{
+        "level": "Amature",
+        "keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "PHP", "MySql", "JAVA"]
+    }],
+    "interests": [{
+            "name": "Sports",
+            "keywords": ["Football", "Cricket"]
+        },
+        {
+            "name": "Gaming",
+            "keywords": ["Valorant", "COD"]
+        },
+        {
+            "name": "Singing",
+            "keywords": ["Singing"]
+        }
+    ],
+    "references": []
+}
