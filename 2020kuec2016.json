@@ -41,7 +41,7 @@
     }],
     "skills": [{
         "level": "Amature",
-        "keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "PHP", "MySql", "JAVA"]
+        "keywords": ["HTML", "CSS", "Javascript", "React", "C++", "PHP", "ReactJS","Sql", "JAVA"]
     }],
     "interests": [{
             "name": "Sports",
